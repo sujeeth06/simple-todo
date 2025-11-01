@@ -30,3 +30,9 @@
 ---
 
 ## 🗂️ Project Structure
+simple-todo/
+│
+├── simple_todo.py        # main Python file
+├── tasks.txt             # stores your tasks (auto-created)
+├── README.md             # project documentation
+└── requirements.txt      # optional (no external packages needed)
